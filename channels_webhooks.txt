@@ -1,0 +1,3 @@
+originchannelid destinationchannelwebhookurl
+originchannelid destinationchannelwebhookurl
+originchannelid destinationchannelwebhookurl
